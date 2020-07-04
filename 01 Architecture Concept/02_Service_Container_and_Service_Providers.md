@@ -137,6 +137,8 @@ class AwesomeServiceProvider extends ServiceProvider
     }
 }
 ```
+> We can register a binding using the bind method, passing the class or interface name that we wish to register along with a Closure that returns an instance of the class
+
 Add your service provider into file config/app.php
 ```php
 ‘providers’ => [
