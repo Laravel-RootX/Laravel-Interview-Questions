@@ -35,4 +35,4 @@ When you understand how your development tools function, you feel more comfortab
 > Once the application has been bootstrapped and all service providers have been registered, the Request will be handed off to the router for dispatching.
 - The router will dispatch the request to a route or controller, as well as run any route specific middleware.
 
-![Life Cycle of Request](https://user-images.githubusercontent.com/23103980/54848970-f3fe8200-4d0c-11e9-9a94-93ece9717422.PNG)
+![Life Cycle of Request](https://github.com/Laravel-RootX/Laravel-Interview-Questions/blob/master/images/laravel-request-lifecycle.png)
